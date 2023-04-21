@@ -1,0 +1,38 @@
+body{
+   
+    background-color: red;
+    animation-name: example;
+    animation-duration: 5s;
+    
+    background-color:lightcyan;
+    text-align: center;
+    color: black;
+
+}
+@keyframes example {
+    0%   {background-color: red;}
+    10%  {background-color: yellow;}
+    20%  {background-color: blue;}
+    40%{background-color: lightpink;} 
+    50%{background-color: lavenderblush;}
+    60%{background-color: lightgoldenrodyellow;}
+    70%{background-color: lightskyblue;}
+
+}
+#head{
+  color: darkgoldenrod;
+  
+    text-align:center;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+    text-shadow: 2px 3px;
+}
+#but{
+    border-radius: 50%;
+background-color: lightcoral;
+color: black;
+width: 200px;
+height:100px;
+}
+

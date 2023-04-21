@@ -1,0 +1,14 @@
+body {
+  background: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fshopping-cart-png%2Fshopping-cart-isolated-exemption-photo-pixabay-3.png&tbnid=d_mkh8hdNHkuWM&vet=12ahUKEwjL4_z-zrf-AhXrwqACHQyZABQQMyhQegUIARCwAQ..i&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fshopping-cart&docid=n0rQzbynH2PtQM&w=640&h=566&q=image%20of%20shopping%20kart&hl=en&ved=2ahUKEwjL4_z-zrf-AhXrwqACHQyZABQQMyhQegUIARCwAQ');
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
